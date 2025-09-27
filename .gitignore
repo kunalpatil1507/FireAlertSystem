@@ -1,0 +1,15 @@
+# Virtual environment
+myvenv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Firebase private key (never push this!)
+firebase-key.json
+
+# IDE files
+.vscode/
+
+# Environment variables
+.env
